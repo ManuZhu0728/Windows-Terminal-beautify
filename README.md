@@ -255,7 +255,7 @@ Terminal支持自定义启动命令，因此我们可以添加ssh连接，直接
 
 
 
-# 5. VSCode内powershell美化
+## 5. VSCode内powershell美化
 
 打开vscode，我们会发现其内的powershell还是很丑。这部分专门讲一下其美化，不用vscode开发的可以跳过。
 
@@ -273,7 +273,7 @@ Terminal支持自定义启动命令，因此我们可以添加ssh连接，直接
 
 
 
-# 6. WSL Ubuntu
+## 6. WSL Ubuntu
 
 这部分我打算和下期macOS终端美化一起说。点个关注呗。
 
@@ -281,7 +281,7 @@ Terminal支持自定义启动命令，因此我们可以添加ssh连接，直接
 
 
 
-# 7. windows自动切换深色模式
+## 7. windows自动切换深色模式
 
 上面的Terminal和vscode我都设置了主题跟随系统，怎么能不设置系统自动切换呢？
 
@@ -293,7 +293,7 @@ Terminal支持自定义启动命令，因此我们可以添加ssh连接，直接
 
 
 
-# 8. 下期预告
+## 8. 下期预告
 
 以上就是本期全部内容。下期`macOS以及Ubuntu终端美化`。想自己动手的朋友可以搜索`oh_my_zsh`，我也是根据网上的教程做的。效果如下：
 
